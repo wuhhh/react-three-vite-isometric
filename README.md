@@ -1,4 +1,4 @@
-# React Three Fiber + Vite Starter
+# React Three Fiber + Vite Starter [Isometric Edition!]
 
 _A simple React Three Fiber + Vite starter with isometric camera setup and ready to go. Import-ready CodeSandbox config included._ 
 
